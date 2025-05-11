@@ -1,0 +1,30 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code settings (optional)
+.vscode/
+
+# Node modules (if using any build tools)
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Archives and temporary files
+*.zip
+*.tar.gz
+*.tmp
+*.swp
+*~
+
+# OS/Editor specific
+__MACOSX/
+.idea/
+.cache/
+*.bak
